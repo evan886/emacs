@@ -1,8 +1,26 @@
+day1  
 :记得要添加在公司作的相关的emacs 笔记
 
-12
+20
 
 ctrl+g  q 退出 快速说明
 
 编辑器内显示行号可使用 M-x linum-mode 来开启。
 M-x 然后在最下面 输入 linum-mode 
+not try
+q
+
+获取帮助
+ctrl+h  k  要查看的快捷键盘
+
+
+
+学习基础 Elisp
+
+ctrl+x  ctrl +b
+
+C-x o：把光标在屏幕上的窗口间进行切换。记忆方法：其它(Other)窗口。
+
+然后选择 *scratch*
+
+运算 C-X  c - E
