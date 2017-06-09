@@ -1,1 +1,7 @@
-记得要添加在公司作的相关的emacs 笔记
+:记得要添加在公司作的相关的emacs 笔记
+10
+
+ctrl+g  q 退出 快速说明
+
+编辑器内显示行号可使用 M-x linum-mode 来开启。
+M-x 然后在最下面 输入 linum-mode 
